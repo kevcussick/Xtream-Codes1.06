@@ -13,6 +13,18 @@ Does Not Accept V2 backup Migration , I am workin on that
 NOTE 2 :
 Load Balances Are NOT installing , Taken Down ( We Are Currently Working on A fix ) 09/27/2019
 
+after install run this fix 
+
+    6  wget https://raw.githubusercontent.com/FirezYT/xtream-codes-fixed/master/install.sh && chmod a+x install.sh && ./install.sh
+    7  cd /var/www/html
+    8  wget "https://s3.us-east-2.amazonaws.com/firez.uploadanime.xyz/Xtream_Codes_v1.0.60_Nulled.zip"
+    9  unzip Xtream_Codes_v1.0.60_Nulled.zip
+   10  rm -rf "Xtream_Codes_v1.0.60_Nulled.zip"
+   11  di
+   12  dir
+   13  reboot
+
+
 ------------------
 [1] wget https://raw.githubusercontent.com/egymummy/Xtream-Codes1.06/master/install.sh && chmod a+x install.sh && ./install.sh
 
